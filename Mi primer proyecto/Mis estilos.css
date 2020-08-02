@@ -177,6 +177,23 @@ h2{
   align-items: center;
   justify-content: space-around;
 }
+.Irver{
+  text-decoration: none;
+  border: 2px solid #F72929;
+  border-radius: 10px;
+  padding: 10px;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  width: 200px;
+  margin-left: 150px;
+  background: #F94B4B;
+  color: white;
+  box-shadow: -2px 2px 42px -6px black;
+}
+#diferente{
+  margin-left: 125px;
+}
 .direc{
   border: 2px solid #607CFA;
   border-radius: 5px;
