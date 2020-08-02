@@ -171,6 +171,24 @@ h2{
   margin: 20px;
   border: 10px solid #EE844B;
   padding-left: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.direc{
+  border: 2px solid #607CFA;
+  border-radius: 5px;
+  margin: -50px;
+  padding: 10px;
+}
+.direc2{
+  border: 2px solid #FA6E60;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
+}
+.correomrp{
+  margin-left: 60px;
 }
 #header_title{
   margin: 5px 10px;
