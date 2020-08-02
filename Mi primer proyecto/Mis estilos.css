@@ -99,10 +99,8 @@ h2{
   justify-content: center;
 }
 .container{
-  border-right: 3px solid #8B7D76;
-  border-bottom: 3px solid #8B7D76;
+  box-shadow: 2px 7px 19px 13px #000;
   background-color: #F7A477;
-  border-radius: 10px;
   padding: 5px;
 }
 #Experences_part1{
@@ -191,8 +189,7 @@ header a{
   height: 20px;
   margin: 20px;
   padding: 10px;
-  border-right: 2px solid red;
-  border-bottom: 2px solid red;
+  box-shadow: 2px 7px 19px 3px #000;
   background: #F0AB87;
   display: flex;
   align-items: center;
