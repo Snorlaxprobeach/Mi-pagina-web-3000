@@ -191,7 +191,8 @@ header a{
   height: 20px;
   margin: 20px;
   padding: 10px;
-  border: 2px solid red;
+  border-right: 2px solid red;
+  border-bottom: 2px solid red;
   background: #F0AB87;
   display: flex;
   align-items: center;
