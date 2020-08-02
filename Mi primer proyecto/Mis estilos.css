@@ -1,0 +1,218 @@
+body{
+  background:#EB6720;
+  margin: 0;
+}
+header{
+  background:#F59460;
+  margin-top: 0;
+  border: 5px solid #EE844B;
+height: inherit;
+}
+section{
+  background: #F59460;
+
+}
+#s1{
+  color:#0B6F08;
+}
+#s2{
+  color:red;
+}
+#DP{
+  background:yellow;
+  width: 200px;
+  height: 30px;
+}
+#Sum{
+  background:red;
+  width: 200px;
+  height: 30px;
+}
+#Res{
+  background:blue;
+  width: 200px;
+  height: 30px;
+}
+#IP{
+  background:green;
+  width: 230px;
+  height: 30px;
+}
+#Mul{
+  background:orange;
+  width: 200px;
+  height: 30px;
+}
+#vidi{
+  background:purple;
+  width: 200px;
+  height: 30px;
+}
+h1{
+  font-size:35px;
+
+}
+h2{
+  font-size:35px;
+
+}
+#Calculatodo_sorry{
+  font-style:italic;
+  margin-left: 20px;
+}
+
+#Videos a{
+  text-decoration: none;
+  }
+#Videos h2{
+  margin: 0;
+
+}
+#Calculatodo_image{
+  margin: 0px 20px;
+}
+#Videos{
+  border-bottom: 10px solid #EE844B;
+  border-left: 10px solid #EE844B;
+  border-right: 10px solid #EE844B;
+  margin: 20px;
+  border: 10px solid #EE844B;
+  padding: 5px 20px;
+}
+#Calculatodo{
+  border-top: 10px solid #EE844B;
+  border-left: 10px solid #EE844B;
+  border-right: 10px solid #EE844B;
+  margin: 0px;
+  border: 10px solid #EE844B;
+}
+#Experences{
+  border: 10px solid #EE844B;
+  margin-top: 20px;
+  font-size: 20px;
+  margin: 20px;
+  border: 10px solid #EE844B;
+}
+#Experences_article{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container{
+  border-right: 3px solid #8B7D76;
+  border-bottom: 3px solid #8B7D76;
+  background-color: #F7A477;
+  border-radius: 10px;
+  padding: 5px;
+}
+#Experences_part1{
+  margin-top: 20px;
+  margin-right: 50px;
+  margin-bottom: 10px;
+}
+#Experences_image1{
+  padding-left: 70px;
+}
+#Calculatodo_image1{
+  margin-left: 10px;
+  margin-bottom: 5px;
+}
+#Calculatodo_image2{
+  margin-left: 25px;
+  margin-bottom: 5px;
+}
+#Calculatodo_image3{
+  margin-left: 29px;
+  margin-bottom: 5px;
+}
+#Calculatodo_image4{
+  margin-left: 11px;
+  margin-bottom: 5px;
+}
+#Calculatodo_image5{
+  margin-left: 13px;
+  margin-bottom: 5px;
+}
+#Calculatodo_image6{
+  margin-left: 13px;
+  margin-bottom: 5px;
+}
+#Calculatodo_selection{
+  display: flex;
+  align-items: stretch;
+  justify-content: space-around;
+}
+#Calculatodo_title{
+  margin-left: 20px;
+}
+#Calculatodo_title_selection{
+  margin-left: 20px;
+}
+#Videos_enlaces{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+#Videos_enlaces a{
+  border: 1px solid #CA3312;
+  border-radius: 2px;
+  padding: 10px;
+  background-color:#E73C17;
+  color: white;
+}
+#Experences_part2{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+#header_selection_passection{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+#Final{
+  margin: 20px;
+  border: 10px solid #EE844B;
+  padding-left: 20px;
+}
+#header_title{
+  margin: 5px 10px;
+}
+#header{
+  margin-bottom: 10px;
+
+  height: inherit;
+}
+#Calculatodo{
+  margin-top: 20px;
+}
+header a{
+  text-decoration: none;
+  color: white;
+  height: 20px;
+  margin: 20px;
+  padding: 10px;
+  border: 2px solid red;
+  background: #F0AB87;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+ol,
+ul{
+  margin: 0;
+ padding: 0;
+ list-style: none;
+}
+ol,
+li {
+
+ height: inherit;
+}
+header ol{
+  display: flex;
+  height: inherit;
+}
+#Experences_title{
+  margin-bottom: 0;
+  margin-left: 20px;
+}
