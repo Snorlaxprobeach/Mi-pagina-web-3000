@@ -20,33 +20,37 @@ section{
 }
 #DP{
   background:yellow;
-  width: 200px;
+  margin-left: 10px;
   height: 30px;
 }
 #Sum{
   background:red;
-  width: 200px;
+  width: 150px;
   height: 30px;
+  margin-left: 25px;
 }
 #Res{
   background:blue;
-  width: 200px;
+  width: 150px;
   height: 30px;
+  margin-left: 25px;
 }
 #IP{
   background:green;
-  width: 230px;
+  margin-left: 12px;
   height: 30px;
 }
 #Mul{
   background:orange;
-  width: 200px;
+  width: 150px;
   height: 30px;
+  margin-left: 25px;
 }
 #vidi{
   background:purple;
-  width: 200px;
+  width: 150px;
   height: 30px;
+  margin-left: 30px;
 }
 h1{
   font-size:35px;
@@ -98,6 +102,17 @@ h2{
   align-items: center;
   justify-content: center;
 }
+#Videos_article{
+  display: flex;
+  justify-content: space-around;
+}
+.soli{
+  margin-top: 0;
+  margin-bottom: 0px;
+}
+#Videos_title3{
+  margin-bottom: 0;
+}
 .container{
   box-shadow: 2px 7px 19px 13px #000;
   background-color: #F7A477;
@@ -112,32 +127,32 @@ h2{
   padding-left: 70px;
 }
 #Calculatodo_image1{
-  margin-left: 10px;
+  margin-left: 0px;
   margin-bottom: 5px;
 }
 #Calculatodo_image2{
-  margin-left: 25px;
+  margin-left: 0px;
   margin-bottom: 5px;
 }
 #Calculatodo_image3{
-  margin-left: 29px;
+  margin-left: 0px;
   margin-bottom: 5px;
 }
 #Calculatodo_image4{
-  margin-left: 11px;
+  margin-left: 0px;
   margin-bottom: 5px;
 }
 #Calculatodo_image5{
-  margin-left: 13px;
+  margin-left: 0px;
   margin-bottom: 5px;
 }
 #Calculatodo_image6{
-  margin-left: 13px;
+  margin-left: 0px;
   margin-bottom: 5px;
 }
 #Calculatodo_selection{
   display: flex;
-  align-items: stretch;
+  align-items: center;
   justify-content: space-around;
 }
 #Calculatodo_title{
@@ -148,8 +163,8 @@ h2{
 }
 #Videos_enlaces{
   display: flex;
-  align-items: center;
-  justify-content: space-around;
+  flex-wrap: wrap;
+
 }
 #Videos_enlaces a{
   border: 1px solid #CA3312;
@@ -157,6 +172,9 @@ h2{
   padding: 10px;
   background-color:#E73C17;
   color: white;
+  margin-top: 60px;
+  margin-right: 40px;
+  height: 15px;
 }
 #Experences_part2{
   margin-top: 20px;
@@ -218,6 +236,17 @@ h2{
 #Calculatodo{
   margin-top: 20px;
 }
+.container1{
+  width: 200px;
+  height: 260px;
+  margin: 10px;
+
+}
+#Calculatodo_selection{
+  display: flex;
+  flex-wrap: wrap;
+}
+
 header a{
   text-decoration: none;
   color: white;
