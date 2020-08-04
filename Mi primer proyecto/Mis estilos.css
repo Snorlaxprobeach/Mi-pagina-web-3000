@@ -241,8 +241,8 @@ h2{
 }
 #header{
   margin-bottom: 10px;
-
   height: inherit;
+  padding: 20px;
 }
 #Calculatodo{
   margin-top: 20px;
@@ -260,12 +260,12 @@ h2{
 
 header a{
   text-decoration: none;
-  color: white;
+  color: #F23C3C;
   height: 20px;
   margin: 20px;
   padding: 10px;
   box-shadow: 2px 7px 19px 3px #000;
-  background: #F0AB87;
+  background: #FACB9C;
   display: flex;
   align-items: center;
   justify-content: space-between;
