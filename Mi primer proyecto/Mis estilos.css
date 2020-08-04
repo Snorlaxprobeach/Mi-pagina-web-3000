@@ -16,13 +16,16 @@ height: inherit;
   color:white;
 }
 #qwer{
-  color: red;
+  color: #F3782D;
 }
 #footer{
   padding: 10px 20px;
   padding-left: 40px;
+  padding-right: 40px;
   background-color: #F32D2D;
-
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 #s2{
   color:red;
