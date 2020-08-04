@@ -8,12 +8,21 @@ header{
   border: 5px solid #EE844B;
 height: inherit;
 }
-section{
+.bu{
   background: #F59460;
 
 }
 .s1{
-  color:#0B6F08;
+  color:white;
+}
+#qwer{
+  color: red;
+}
+#footer{
+  padding: 10px 20px;
+  padding-left: 40px;
+  background-color: #F32D2D;
+
 }
 #s2{
   color:red;
@@ -80,6 +89,7 @@ h2{
   border-left: 10px solid #EE844B;
   border-right: 10px solid #EE844B;
   margin: 20px;
+  margin-bottom: 40px;
   border: 10px solid #EE844B;
   padding: 5px 20px;
 }
@@ -227,6 +237,7 @@ h2{
 }
 #header_title{
   margin: 5px 10px;
+  color:red;
 }
 #header{
   margin-bottom: 10px;
